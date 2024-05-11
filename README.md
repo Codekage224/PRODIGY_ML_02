@@ -3,7 +3,7 @@ Hello Everyone.
 <br>
 This project is done as one of my tasks from my internship from PRODIGY INFOTECH.  
 <br>
-Here I've implmented K-Means Clustering Algorithm which helps us to group people based on their purchase History on the store.  <br>
+Here I've implmented K-Means Clustering Algorithm which helps us to group people based on their purchases on store.  <br>
 <br>
 The Dataset,I used is taken from kaggle , ___link___=(https://www.kaggle.com/datasets/vjchoudhary7/customer-segmentation-tutorial-in-python)   
 <br>
